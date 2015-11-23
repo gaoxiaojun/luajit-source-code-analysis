@@ -1,4 +1,4 @@
-My Awesome Book
+LuaJIT源代码分析
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+主要是记录自己分析LuaJIT代码过程的工作记录
